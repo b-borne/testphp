@@ -1,2 +1,1 @@
-# testphp
-testphp
+<?phpinfo();?>
